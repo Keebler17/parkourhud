@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ParkourHud",
+  "name": "Parkour Hud",
+  "description": "Hud for Parkour",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Keebler17"],
+  "credits": "carterbear06 for being pretty cool",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
